@@ -42,4 +42,4 @@ if __name__ == '__main__':
         print (auto3.mostrar_info() + '\n (Auto deportivo)')
     else:
         print (auto3.mostrar_info() + '\n (Auto sedán)')
-
+        
